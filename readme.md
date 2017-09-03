@@ -1,6 +1,8 @@
 Perl Scripts for GPS Track Visualization
 ========================================
 
+Based on tools developed by Alexander Avtanski at http://avtanski.net/projects/gps/.
+
 This folder contains several Perl scripts for processing and plotting
 GPS track data in .GPX format.
 
@@ -115,7 +117,7 @@ this archive.
 Thanks
 ======
 
-Thanks to Jonas Häggqvist for the idea and code changes for using
+Thanks to Jonas HÃ¤ggqvist for the idea and code changes for using
 multiple folders in the SRCDIR parameter, and also for the runme.sh
 script.
 
