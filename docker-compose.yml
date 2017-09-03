@@ -1,0 +1,6 @@
+app:
+    build: .
+    command: /usr/src/app/bin/run.sh
+    volumes:
+        - ./output:/usr/src/app/output
+        - ./gpx:/usr/src/app/gpx
